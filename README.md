@@ -7,8 +7,9 @@ Projeto integrador  União estudantil.
 
 1 **Funções**
 
-- **Calendario**  
-- ~Eleições~
+- _Agenda_
+        Nesta função pretendemos 
+- Eleições
 - Avaliações
 - forum
 
