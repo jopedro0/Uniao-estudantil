@@ -5,10 +5,10 @@ Projeto integrador  União estudantil.
                        escola através de fóruns de discussões, enquetes e outras 
                        funcionalidades, promovendo seu protagonismo e tornando a escola novamente atrativa
 
-1 Funções
-- Calendario
-  
-- Eleições
+1 **Funções**
+
+- **Calendario**  
+- ~Eleições~
 - Avaliações
 - forum
 
