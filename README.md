@@ -13,11 +13,9 @@ Projeto integrador  União estudantil.
 - forum
 
  **integrantes do grupo**
+ 
  -João Pedro
- 
  -Evany Silvestre 
- 
  -Maria Carolina
- 
  -Thaynara Mendes 
  
