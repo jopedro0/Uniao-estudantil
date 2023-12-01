@@ -7,11 +7,14 @@ Projeto integrador  União estudantil.
 
 1 **Funções**
 
-- _Agenda_
-- 
-        Nesta função pretendemos 
+- **Agenda** :  
 - Eleições
 - Avaliações
 - forum
 
--
+ **integrantes do grupo**
+ -João Pedro
+ -Evany Silvestre 
+ -Maria Carolina
+ -Thaynara Mendes 
+ 
