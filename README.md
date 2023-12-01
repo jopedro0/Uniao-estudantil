@@ -7,8 +7,8 @@ Projeto integrador  União estudantil.
 
 1 **Funções**
 - **Agenda** :  
-- **Eleições** :
-- **Avaliações** : nesta função iremos criar uma forma do aluno se expressar \n avliando situações do seu ambiente educacional 
+- **Eleições** : 
+- **Avaliações** : nesta função iremos criar uma forma do aluno se expressar avaliando situações do seu ambiente educacional  
 - **forum** :
 
  **integrantes do grupo**
