@@ -6,11 +6,10 @@ Projeto integrador  União estudantil.
                        funcionalidades, promovendo seu protagonismo e tornando a escola novamente atrativa
 
 1 **Funções**
-
 - **Agenda** :  
-- Eleições
-- Avaliações
-- forum
+- **Eleições** :
+- **Avaliações** : nesta função iremos criar uma forma do aluno se expressar \n avliando situações do seu ambiente educacional 
+- **forum** :
 
  **integrantes do grupo**
  
